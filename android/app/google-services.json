@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "865497470842",
+    "project_id": "se-project-a2095",
+    "storage_bucket": "se-project-a2095.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865497470842:android:d06b502b12e4e1a21e28c3",
+        "android_client_info": {
+          "package_name": "com.farmerfriend.se_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgjxXlk6SZUAlZNLkVlEplaFvdvH7NR5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
